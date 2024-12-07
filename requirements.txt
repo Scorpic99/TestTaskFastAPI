@@ -1,0 +1,3 @@
+typing
+uvicorn
+fastapi[all]
